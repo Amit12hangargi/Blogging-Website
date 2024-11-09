@@ -1,0 +1,10 @@
+
+backend/backend/node_modules/
+# deps
+node_modules/
+.wrangler
+
+# env
+.env
+
+
